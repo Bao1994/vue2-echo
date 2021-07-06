@@ -4,7 +4,7 @@
         <music-banner :json='bannerJson'></music-banner>
         <!-- 推荐 -->
         <div class="recommend">
-            <div class="recommen-title">echo每日推荐</div>
+            <div class="recommen-title">每日推荐</div>
             <!-- 一键播放 -->
             <div class="playAll" @click="playAll">
                 <div class="my-icon-arrow playAll-icon"></div>
